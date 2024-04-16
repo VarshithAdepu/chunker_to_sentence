@@ -1,0 +1,13 @@
+ राम 1 NNP
+ खा 2 VM
+ कर 3 VAUX
+ (( VGF
+ आयेगा 4 VAUX
+ ))
+ कि 5 CC
+ सीता 6 NNP
+ (( VGF
+ गा 7 VM
+ रही 8 VAUX
+ होगी 9 VAUX
+ ))
